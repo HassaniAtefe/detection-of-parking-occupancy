@@ -20,4 +20,4 @@ PKLot dataset - https://web.inf.ufpr.br/vri/databases/parking-lot-database/
 
 ## Acknowledge
 To detect parking occupancy using Deep Learning we have inspired the sources of the codes that provided by the following link:
-(https://github.com/gsadhas/real-time-parking-occupancy-detection#readme)
+(https://github.com/gsadhas/real-time-parking-occupancy-detection)
